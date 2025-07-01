@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Chimdindu!  
 
-https://photos.google.com/search/Cg1FTkUgQ2hpbWRpbmR1GikKJ0FGMVFpcFAtTHk5dzcwbjAxaV9uTmJNU1UzUWo5aVI2cnNHdHZvbyIxEi8KLQorCikSJ0FGMVFpcFAtTHk5dzcwbjAxaV9uTmJNU1UzUWo5aVI2cnNHdHZvbyj7q4qZ%2FDI%3D/photo/AF1QipNJK2UGw3Ozjr4LSIuzcYv80YaWcBu2O4qVOotN
 
 I’m a passionate **Junior Software Developer** with a unique background in **Software Engineering**, and **Medical Laboratory Science**.  
 I love solving complex problems, building backend APIs, and creating innovative solutions that bridge **technology**, **healthcare**, **agriculture** and **real-world needs**.  
