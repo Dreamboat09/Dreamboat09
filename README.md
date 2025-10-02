@@ -8,10 +8,10 @@ I love solving complex problems, building backend APIs, and creating innovative 
 
 ## About Me 🚀
 
-- 🎓 Background in **Software Engineering**, and **Medical Laboratory Science**.
+- 🎓 Background in **Backend Development**, and **Medical Laboratory Science**.
 - 🌱 Currently learning: **Advanced backend frameworks, DevOps basics, and open-source contribution**
 - 🔭 Working on: A **full-stack app** to support local farmers and tools for **healthcare innovation**
-- 🌍 Languages: **Python**, **JavaScript**, **Shell Scripting** | **English**, **Igbo**, **Spanish**
+- 🌍 Languages: **Python**, **SQL**, **JavaScript**, **Shell Scripting** || **English**, **Igbo**, **Spanish**
 - ⚡ Fun fact: Also an experienced **dog breeder & trainer**, **electrician** and hands-on **problem solver**
 
 ---
@@ -24,6 +24,7 @@ I love solving complex problems, building backend APIs, and creating innovative 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
