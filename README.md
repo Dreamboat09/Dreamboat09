@@ -11,7 +11,7 @@ I love solving complex problems, building backend APIs, and creating innovative 
 - 🎓 Background in **Backend Development**, and **Medical Laboratory Science**.
 - 🌱 Currently learning: **Advanced backend frameworks, DevOps basics, and open-source contribution**
 - 🔭 Working on: A **full-stack app** to support local farmers and tools for **healthcare innovation**
-- 🌍 Languages: **Python**, **SQL**, **JavaScript**, **Shell Scripting** || **English**, **Igbo**, **Spanish**
+- 🌍 Languages: **Python**, **SQL**, **Golang**, **JavaScript**, **Shell Scripting** || **English**, **Igbo**, **Spanish**
 - ⚡ Fun fact: Also an experienced **dog breeder & trainer**, **electrician** and hands-on **problem solver**
 
 ---
