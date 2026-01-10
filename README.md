@@ -1,42 +1,74 @@
-# 👋 Hi, I’m Chimdindu!  
+<h1 align="center">Hi 👋, I'm Chimdindu Anthony Ene</h1>
+<h3 align="center">Backend Engineer • Python & Go • Systems & APIs</h3>
 
-
-I’m a passionate **Junior Software Developer** with a unique background in **Software Engineering**, and **Medical Laboratory Science**.  
-I love solving complex problems, building backend APIs, and creating innovative solutions that bridge **technology**, **healthcare**, **agriculture** and **real-world needs**.  
+<p align="center">
+  <a href="https://www.linkedin.com/in/chimdinduanthonyene/">
+    <img src="https://img.shields.io/badge/LinkedIn-Chimdindu%20Ene-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="mailto:enechimdindu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-enechimdindu@gmail.com-red?style=flat&logo=gmail">
+  </a>
+  <a href="https://github.com/Dreamboat09">
+    <img src="https://img.shields.io/badge/GitHub-Dreamboat09-black?style=flat&logo=github">
+  </a>
+</p>
 
 ---
 
-## About Me 🚀
+## 🧩 About Me
 
-- 🎓 Background in **Backend Development**, and **Medical Laboratory Science**.
-- 🌱 Currently learning: **Advanced backend frameworks, DevOps basics, and open-source contribution**
-- 🔭 Working on: A **full-stack app** to support local farmers and tools for **healthcare innovation**
-- 🌍 Languages: **Python**, **Golang**, **SQL**, **JavaScript**, **Shell Scripting** || **English**, **Igbo**, **Spanish**
-- ⚡ Fun fact: Also an experienced **dog breeder & trainer**, **electrician** and hands-on **problem solver**
+I’m a **Backend Engineer** with a strong focus on **Python and Go (Golang)**, building APIs, backend systems, and database-driven applications.
+
+I enjoy working on the **logic behind the scenes** — designing clean APIs, structuring data correctly, and making systems reliable and scalable.
+
+- 🎓 ALX Certified Backend Developer  
+- 🧠 Strong analytical background (Medical Laboratory Science)  
+- 🔧 Backend-first mindset, frontend-capable when needed  
+- 🚀 Interested in systems, automation, and real-world problem solving
 
 ---
 
-## My Skills 🧠
+## 🛠️ Tech Stack
 
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### **Backend & APIs**
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
+![Django REST](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=flat)
+![REST](https://img.shields.io/badge/REST-API-blue?style=flat)
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
+
+### **DevOps & Tooling**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-## Get in Touch 📬
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/chimdindudreamboat)
-- 📧 [Email](enechimdindu@gmail.com)
-- 🐦 [Twitter](https://x.com/Dreamboat_Jeric)
-- 🌱 *Let’s build something meaningful together!*
 
 ---
 
+## 🎯 What I Care About
+
+- Writing **clear, maintainable backend code**
+- Designing systems that scale and make sense
+- Learning deeply — not rushing trends
+- Building software that solves *real problems*
+
+---
+
+## 📫 Let’s Connect
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/chimdinduanthonyene  
+- 🐙 GitHub: https://github.com/Dreamboat09  
+- ✉️ Email: enechimdindu@gmail.com  
+
+> *Backend engineering is about making things work — quietly, reliably, and correctly.*
 ⭐️ **Thanks for visiting my profile!** ⭐️
